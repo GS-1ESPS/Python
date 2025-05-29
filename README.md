@@ -32,6 +32,6 @@ ChuvaSegura/
 └── docs/ # Documentação
 
 #Integrantes:
-##-Gabrielly Candido (RM: 560916)
-##-Luiza Ribeiro (RM: 560200)
+-Gabrielly Candido (RM: 560916)
+-Luiza Ribeiro (RM: 560200)
 1ESPS - 2025 | 
