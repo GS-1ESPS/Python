@@ -40,8 +40,6 @@ ChuvaSegura/
 
 
 ## Links
-[![Doc_do_projeto](![image](https://static.vecteezy.com/system/resources/previews/027/179/381/non_2x/google-docs-icon-logo-symbol-free-png.png)
-)](https://docs.google.com/document/d/1J3BbzRgCOg34jsy_K51OnAS5xaGZPu8UD0Q6R_1JF0Y/edit?usp=sharing)
 Doc do projeto: https://docs.google.com/document/d/1J3BbzRgCOg34jsy_K51OnAS5xaGZPu8UD0Q6R_1JF0Y/edit?usp=sharing
 
 
