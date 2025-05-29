@@ -40,7 +40,8 @@ ChuvaSegura/
 
 
 ## Links
-[![Doc_do_projeto](https://w7.pngwing.com/pngs/851/834/png-transparent-google-docs-logo-and-symbol.png)](https://docs.google.com/document/d/1J3BbzRgCOg34jsy_K51OnAS5xaGZPu8UD0Q6R_1JF0Y/edit?usp=sharing)
+[![Doc_do_projeto](![image](https://github.com/user-attachments/assets/5fa34329-9452-499d-a5fc-ecdbd85675d6)
+)](https://docs.google.com/document/d/1J3BbzRgCOg34jsy_K51OnAS5xaGZPu8UD0Q6R_1JF0Y/edit?usp=sharing)
 Doc do projeto: https://docs.google.com/document/d/1J3BbzRgCOg34jsy_K51OnAS5xaGZPu8UD0Q6R_1JF0Y/edit?usp=sharing
 
 
