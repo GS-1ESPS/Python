@@ -31,7 +31,8 @@ ChuvaSegura/
 │ └── anual/
 └── docs/ # Documentação
 
-#Integrantes:
+## Integrantes:
+
 -Gabrielly Candido (RM: 560916)
 
 -Luiza Ribeiro (RM: 560200)
